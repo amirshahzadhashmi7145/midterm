@@ -32,6 +32,15 @@ const peopleData = [
     }
 ];
 
+const peoplData = [
+    {
+        title: "Professor Heller",
+        institution: "at Howard University",
+        description: "Studies common creative practices in technology and innovation.",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqDV-X4JQ42D1BE148V2p9FuvBV0MvxNN4hA&s"
+    },
+]
+
 const container = document.getElementById('people-container');
 
 // Loop through the data and create cards dynamically
